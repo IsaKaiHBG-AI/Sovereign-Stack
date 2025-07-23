@@ -1,4 +1,5 @@
 # Sovereign AI Stack – IsaKai Holdings
+![Logo](assets/logo.png)
 
 The **Sovereign AI Stack** powers IsaKai’s **self-owned, zero-cloud AI infrastructure**.
 
